@@ -1,5 +1,6 @@
 # c-basics
-- [독하게 시작하는 C프로그래밍] 실습과정을 기록하는 repo 입니다.
+
+#### [독하게 시작하는 C프로그래밍] 실습과정을 기록하는 repo 입니다.
 
 (http://www.yes24.co.kr/Product/goods/18732021)
 
